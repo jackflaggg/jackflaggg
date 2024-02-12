@@ -5,10 +5,10 @@
 ## I'm junior backend developer and System Administrator
 
 * ❤️ I love the intersection of code and programm software
-  👨🏽‍💻 I like open sourcing the projects  I make
-  🌱 You can find me learning new stuff, especially shing interesting new tools and technologies
-  💬 I like to talk about interesting stuff, just drop a message! 😉
-  ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
+* 👨🏽‍💻 I like open sourcing the projects I make
+* 🌱 You can find me learning new stuff, especially shing interesting new tools and technologies
+* 💬 I like to talk about interesting stuff, just drop a message! 😉
+* ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
 
 ## Language and Tools
 
