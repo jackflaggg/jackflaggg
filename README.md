@@ -1,6 +1,6 @@
 ### Hi there Rasul👋:alien:
 
-[![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/gifgit.gif)](https://vk.com/rasul_str)
+[![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/gifgit%20(1).gif)](https://vk.com/rasul_str)
 
 ## I'm junior backend developer and System Administrator
 
