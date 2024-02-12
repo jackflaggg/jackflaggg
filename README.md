@@ -1,7 +1,10 @@
 ### Hi there Rasul👋:alien:
 
 
-[![Header](https://tenor.com/ru/view/spider-man-prowler-earth-42-miles-miles-morales-spider-man-across-the-spider-verse-gif-4943170996383706593)](https://vk.com/rasul_str)
+[![Header]()](https://vk.com/rasul_str)
+
+span
+
 
 About me
 
