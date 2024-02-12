@@ -4,6 +4,13 @@
 
 ## I'm junior backend developer and System Administrator
 
+
+* ❤️ I love the intersection of code and design
+* 👨🏽‍💻 I like open sourcing the projects and websites I make
+* 🌱 You can find me learning new stuff, especially shing interesting new tools and technologies
+* 💬 I like to talk about interesting stuff, just drop a message! 😉
+* ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
+
 ## Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS&logoColor=blue) ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=pink) ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=green) ![RestAPI](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge&logo=RestAPI&logoColor=pink) ![NEST](https://img.shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs&logoColor=pink)
