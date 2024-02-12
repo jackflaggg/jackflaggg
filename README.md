@@ -6,7 +6,7 @@
 
 ## Language and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS&logoColor=blue) ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=pink) ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=green) ![RestAPI](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge&logo=RestAPI&logoColor=pink)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS&logoColor=blue) ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=pink) ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=green) ![RestAPI](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge&logo=RestAPI&logoColor=pink) ![NEST](https://img.shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs&logoColor=pink)
 
 Follow Me[]
 
