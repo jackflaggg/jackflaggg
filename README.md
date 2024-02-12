@@ -1,14 +1,12 @@
 ### Hi there Rasul👋:alien:
 
-
 [![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/miles-morales-gif-3.gif)](https://vk.com/rasul_str)
-
-
-
 
 ## I'm junior backend developer and System Administrator
 
-Language and Tools
+## Language and Tools
+
+![JavaScript]([https://img.shields.io/badge/any\_text-you\_like-blue](https://img.shields.io/badge/-JavaScript-ffa500))
 
 Follow Me[]
 
