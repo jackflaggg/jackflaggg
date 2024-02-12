@@ -20,3 +20,7 @@
 ## Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=42AAFF)](https://t.me/jackflagg) [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=42AAFF)](https://vk.com/rasul_str) [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCu2cjrB378qFUSDIrB1rYbw) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=orange)](https://www.instagram.com/_eternityyyy?igsh=MWY2MTAxYnRyMGx1MA==)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackflaggg&hide=issues,stars&show_icons=true)](https://github.com/jackflaggg/github-readme-stats)
