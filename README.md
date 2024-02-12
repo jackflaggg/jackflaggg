@@ -6,7 +6,7 @@
 
 ## Language and Tools
 
-![JavaScript]([https://img.shields.io/badge/any\_text-you\_like-blue](https://img.shields.io/badge/-JavaScript-ffa500))
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue) NodeJS EXPRESS RESTAPI SQL NESTJS
 
 Follow Me[]
 
