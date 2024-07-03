@@ -3,7 +3,7 @@
 [![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/gifgit%20(1).gif)](https://vk.com/rasul_str)
 
 
-## I'm junior backend developer and System Administrator
+## I'm Junior+ backend developer and ex Middle System Administrator
 
 * ❤️ I love the intersection of code and programm software
 * 👨🏽‍💻 I like open sourcing the projects I make
