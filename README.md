@@ -22,4 +22,5 @@
 
 # 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackflaggg&hide_progress=true&hide=issues,stars&show_icons=true&theme=dark)](https://github.com/jackflaggg/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
