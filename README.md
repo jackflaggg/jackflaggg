@@ -1,10 +1,11 @@
 ### Hi, my name is Rasul 🐈
-[![codewars](https://www.codewars.com/users/jackflaggg/badges/large)](https://www.codewars.com/users/jackflaggg)
+
 [![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/gifgit%20(1).gif)](https://vk.com/rasul_str)
 
 
 ## I'm Junior+ backend developer and ex Middle System Administrator
 
+[![codewars](https://www.codewars.com/users/jackflaggg/badges/large)](https://www.codewars.com/users/jackflaggg)
 * ❤️ I love the intersection of code and programm software
 * 👨🏽‍💻 I like open sourcing the projects I make
 * 🌱 You can find me learning new stuff, especially shing interesting new tools and technologies
