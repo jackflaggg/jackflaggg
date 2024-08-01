@@ -26,3 +26,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&theme=black)
 
+[![](https://visitcount.itsvg.in/api?id=jackflaggg&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
