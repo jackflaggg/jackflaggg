@@ -3,7 +3,7 @@
 [![Header](https://github.com/jackflaggg/jackflaggg/blob/master/assets/gifgit%20(1).gif)](https://vk.com/rasul_str)
 
 
-## I'm Junior+ backend developer and ex Middle System Administrator
+## I'm middle backend developer
 
 [![codewars](https://www.codewars.com/users/jackflaggg/badges/large)](https://www.codewars.com/users/jackflaggg)
 * ❤️ I love the intersection of code and programm software
