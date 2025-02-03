@@ -23,7 +23,6 @@
 
 
 # 
-![](https://komarev.com/ghpvc/?username=jackflaggg&label=PROFILE+VIEWS)
 [![](https://visitcount.itsvg.in/api?id=jackflagg&label=Profile%20Views&color=5&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&theme=black)
