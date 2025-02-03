@@ -1,9 +1,10 @@
+# Hi... I'm Rasul  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<h3 align="left">Hello, I'm Rasul</h3>
-<h3 align="left">I middle backend developer</h3>
+A **Middle Backend Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences. 
+- Open to project collaborations
 
 
-- 📫 How to contact me **rasul.khamzinnn@gmail.com** or **https://t.me/jackflagg**
+- You can reach me through: <a href="https://johnmwendwa.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 
 
 
