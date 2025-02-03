@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackflaggg&show_icons=truelayout=compact" alt="jackflaggg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackflaggg&show_icons=true&layout=compact" alt="jackflaggg" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
