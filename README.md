@@ -8,9 +8,8 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/>
 </a>
 
-![Handshake](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png)
 
-- **NOTE** : You can **fork** and **contribute** to any of the projects, сюда хочу рукопожатие
+- **NOTE** : You can **fork** and **contribute** to any of the projects ![Handshake](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png)
 
 
 
