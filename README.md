@@ -1,13 +1,12 @@
 # Hi... I'm Rasul  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **Middle Backend Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products. 
+A **Middle Backend Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20">. 
 - Open to project collaborations;
 
 
 - You can reach me through: <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://t.me/jackflagg" title="Telegram">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/>
 </a>
-- <p><strong>NOTE</strong> : You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20"></p>
 
 
 
