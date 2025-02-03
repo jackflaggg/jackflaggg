@@ -19,7 +19,7 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 
 ---
 
-
+# Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackflaggg&show_icons=true&layout=compact" alt="jackflaggg" />
@@ -28,7 +28,7 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
 </p>
 
-
+# Visiting
 
 ![Visitor Count](https://profile-counter.glitch.me/jackflaggg/count.svg)
 
