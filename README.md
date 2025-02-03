@@ -28,6 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
 </p>
 
+#
 Thanks for visiting ❤️
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jackflaggg&label=Profile%20views&color=0e75b6&style=flat" alt="jackflaggg" />
