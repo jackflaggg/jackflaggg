@@ -9,7 +9,9 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 </a>
 
 
-- **NOTE** : You can **fork** and **contribute** to any of the projects ![Handshake](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png)
+
+<p>- <strong>NOTE</strong> : You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake"></p>
+
 
 
 
