@@ -1,17 +1,10 @@
-<h1 align="center">Привет 👋, я Расул</h1>
-<h3 align="center">Я разработчик middle backend</h3>
+
+<h3 align="center">Hello, I'm Rasul</h3>
+<h3 align="center">I middle backend developer</h3>
 
 
-- 🌱 Сейчас я изучаю **NestJS, GraphQL, PostgreSQL**
+- 📫 How to contact me **rasul.khamzinnn@gmail.com** **https://t.me/jackflagg**
 
-- 📫 Как со мной связаться **rasul.khamzinnn@gmail.com**
-
-<h3 align="left">Связаться со мной:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/jackflagg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jackflagg" height="30" width="40" />
-  </a>
-</p>
 
 
 # My Skills
