@@ -31,8 +31,6 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 </p>
 
 
-# Visiting
-
 <div style="text-align: center;">
   <h1>Visiting</h1>
   <img src="https://profile-counter.glitch.me/jackflaggg/count.svg" alt="Visitor Count">
