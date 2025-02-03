@@ -22,8 +22,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=42AAFF)](https://t.me/jackflagg) [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=42AAFF)](https://vk.com/jackflagg) [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCu2cjrB378qFUSDIrB1rYbw) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=orange)](https://www.instagram.com/_eternityyyy?igsh=MWY2MTAxYnRyMGx1MA==)
 
 
-# 
-[![](https://visitcount.itsvg.in/api?id=jackflaggg&label=Profile%20Views&color=5&icon=7&pretty=false)](https://visitcount.itsvg.in)
+# Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&theme=black)
 
