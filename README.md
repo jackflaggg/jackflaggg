@@ -1,7 +1,7 @@
 # Hi... I'm Rasul  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **Middle Backend Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences. 
-- Open to project collaborations
+A **Middle Backend Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products. 
+- Open to project collaborations;
 
 
 - You can reach me through: <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://t.me/jackflagg" title="Telegram">
@@ -30,9 +30,14 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
 </p>
 
+
 # Visiting
 
-![Visitor Count](https://profile-counter.glitch.me/jackflaggg/count.svg)
+<div style="text-align: center;">
+  <h1>Visiting</h1>
+  <img src="https://profile-counter.glitch.me/jackflaggg/count.svg" alt="Visitor Count">
+  <p>Statistics are kept since February 3, 2025</p>
+</div>
 
-statistics are kept since February 3, 2025
+
 
