@@ -7,10 +7,8 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 - You can reach me through: <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://t.me/jackflagg" title="Telegram">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/>
 </a>
+<p>- <strong>NOTE</strong> : You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20"></p>
 
-
-
-<p>- <strong>NOTE</strong> : You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake"></p>
 
 
 
