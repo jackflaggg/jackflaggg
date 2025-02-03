@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jackflagg" height="30" width="40" />
   </a>
 </p>
-
+#
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left" style="display: flex; gap: 10px;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   </a>
 </p>
-
+#
 
 
 <p>
