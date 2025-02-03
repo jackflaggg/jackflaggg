@@ -1,9 +1,6 @@
 <h1 align="center">Привет 👋, я Расул</h1>
 <h3 align="center">Я разработчик middle backend</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jackflaggg&label=Profile%20views&color=0e75b6&style=flat" alt="jackflaggg" />
-</p>
 
 - 🌱 Сейчас я изучаю **NestJS, GraphQL, PostgreSQL**
 
@@ -30,3 +27,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
 </p>
+
+Thanks for visiting ❤️
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jackflaggg&label=Profile%20views&color=0e75b6&style=flat" alt="jackflaggg" />
+</p>
+statistics are kept since February 3, 2025
