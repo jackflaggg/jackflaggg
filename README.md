@@ -6,7 +6,7 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 
 - You can reach me through: <a href="https://t.me/jackflagg" title="Telegram">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/>
-</a> <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
+</a>         <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 
 
 
