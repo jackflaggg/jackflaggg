@@ -25,6 +25,8 @@ A **Node.JS Backend Developer**  and an advocate for building **responsive**, **
 | Databases             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479a1?style=flat&logo=sql&logoColor=white) |
 
 
+---
+
 ![Codewars](https://github.r2v.ch/codewars?user=jackflaggg&theme=gradient)
 
 ---
