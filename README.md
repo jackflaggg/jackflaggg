@@ -8,7 +8,7 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/></a> <a href="mailto:rasul.khamzinnn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/79174249247" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 
 
-
+---
 
 
 
@@ -25,16 +25,6 @@ A **Middle Backend Developer**  and an advocate for building **responsive**, **a
 | Databases             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479a1?style=flat&logo=sql&logoColor=white) |
 
 ---
-
-# Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackflaggg&show_icons=true&layout=compact" alt="jackflaggg" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackflaggg&show_icons=true&locale=en" alt="jackflaggg" />
-</p>
-
 
 <div style="text-align: center;">
   <h1>Visiting</h1>
