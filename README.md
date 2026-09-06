@@ -1,49 +1,38 @@
 # Rasul Khamzin
 
-Senior Backend Engineer - Node.js / NestJS / PostgreSQL. EdTech, high-load LMS platforms.
+Senior backend engineer, Node.js / NestJS / PostgreSQL. I build and run the backend
+of an online school: the core LMS, which is a distributed monolith with about ten people
+committing to it, the services around it (auth, notifications, payroll), and a fork of
+the whole platform for the LATAM market that I took to production. Almost all of that
+code lives in a private GitLab, not here.
 
-I own backend for an online school. The core LMS is, honestly, a distributed monolith
-(~10 contributors), with a microservice architecture growing around it: auth service,
-notification service, payroll integration, plus a localized fork of the whole platform
-for the LATAM market. Most of my work lives in a self-hosted GitLab, so the contribution
-graph here shows only a fraction of it.
+For the last two years I have owned the auth service: login and session flows, password
+audit, RabbitMQ and Redis integrations, login analytics on ClickHouse. The piece I would
+point to first is suspicious login detection. It started as a loose idea and I took it to
+production, and most of the work was deciding things, not typing: what counts as
+suspicious, how not to lock out legitimate users, what to do when geo or device data is
+incomplete. I covered it with tests for the edge cases, because those are the ones that
+turn into incidents.
 
-## What I've done recently
+The rest of the year was about making the platform hold up under load and stop losing
+data. I moved password storage out of the monolith into the auth service and built a
+versioned event-contract package for the events between them. On the database side
+I rewrote the hottest queries (the popular-lessons cache alone was a third of total DB
+time), added an outbox, a DLQ with a circuit breaker for ClickHouse, Redis locks, and
+fixed a TOCTOU race on payout approval. Search over programs and materials runs on
+Elasticsearch with a reindex pipeline sized for production volumes.
 
-- **Auth security pipeline, end to end.** Designed a versioned event-contract package
-  (`@school/contracts`, 0.2 to 0.11), login-flow logging, IP handling with privacy constraints,
-  geo enrichment, a ClickHouse-backed login analytics store with dashboards and alerts,
-  and suspicious-login notifications with a per-day email ceiling. Moved password storage
-  out of the monolith into the auth service, with cleanup migrations.
-- **Reliability patterns in production.** Outbox pattern, DLQ processor with a circuit breaker
-  for ClickHouse, distributed locks and guards on Redis, race-condition fixes
-  (TOCTOU on payout approval, academic-year creation).
-- **Database performance.** Query rewrites and indexes on the hottest endpoints: popular
-  lessons cache cut 33.6% of total DB time, action analytics dedupe cut 18.6%,
-  diary and grading dashboards, reindex jobs sized for production volumes, P0 fix for
-  a series deletion that took up to a minute.
-- **Search.** Cross-entity search over programs and materials on Elasticsearch, with
-  reindexing pipeline and production resync.
-- **Services from scratch.** SMS/email notification microservice; payroll backend with
-  event-driven sync from the LMS, DLQ handling, CI/CD and Docker; Telegram bot on webhooks;
-  OAuth 2.0 for VK without Passport; referral program with document workflow and amoCRM.
-- **Platform localization and launch.** Prepared and shipped the LATAM fork to production:
-  i18n across notifications, exports and reports, ClickHouse migrations in the deploy
-  pipeline, trimester academic year, data backfills.
-- **Code review.** Reviewer on 160+ merge requests across the team.
+Things I wrote from zero: an SMS/email notification service, a payroll backend with
+event-driven sync from the LMS, a Telegram bot, VK OAuth without Passport, a referral
+program with document workflow and amoCRM.
 
-## Stack
+I also review a lot of code. 160+ merge requests across the team so far. If you want
+a second opinion on any of this, my manager's recommendation is on LinkedIn.
 
-NestJS, TypeScript, PostgreSQL / TypeORM, Redis, RabbitMQ, Bull, ClickHouse, Elasticsearch,
-Socket.io, S3, Docker, GitLab CI, Sentry, Prometheus, OpenTelemetry, Pino, Jest / Supertest
-(unit, integration, e2e).
+Stack I touch daily: NestJS, TypeORM, PostgreSQL, Redis, RabbitMQ, Bull, ClickHouse,
+Elasticsearch, Socket.io, Docker, GitLab CI, Sentry, Prometheus, OpenTelemetry, Jest.
 
-## Open source
-
-- [claude-fleet](https://github.com/jackflaggg/claude-fleet) - local dashboard for
-  all running Claude Code / Codex sessions: lifecycle hooks, SSE, focus-on-click,
-  liveness detection. Tests included.
-
-## Contact
+Open source: [claude-fleet](https://github.com/jackflaggg/claude-fleet), a local
+dashboard for all running Claude Code and Codex sessions, with lifecycle hooks and SSE.
 
 Telegram [@jackflagg](https://t.me/jackflagg) · [LinkedIn](https://linkedin.com/in/jackflaggg) · rasul.khamzinnn@gmail.com
