@@ -51,7 +51,7 @@ Stack I touch daily:
 - **Events**: RabbitMQ (quorum queues, DLX/DLQ, transactional outbox)
 - **Search and infra**: Elasticsearch, Docker, GitLab CI
 - **Tests**: Jest, Supertest, testcontainers
-- **Observability**: Grafana, Loki, Metabase
+- **Observability**: Sentry, Grafana, Loki, Metabase
 
 Open source: [claude-fleet](https://github.com/jackflaggg/claude-fleet), a local
 dashboard for all running Claude Code and Codex sessions, with lifecycle hooks and SSE.
