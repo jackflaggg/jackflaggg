@@ -1,7 +1,7 @@
 # Rasul Khamzin
 
 Backend engineer, Node.js / NestJS / PostgreSQL. I build and run the backend of an online
-school with 80,000+ active students: the core LMS, which is a distributed monolith with about
+school with 100,000+ active students: the core LMS, which is a distributed monolith with about
 ten people committing to it, the services around it (auth, notifications, payroll), and a fork
 of the whole platform for the LATAM market that I took to production. Almost all of that code
 lives in a private GitLab, not here.
