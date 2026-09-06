@@ -52,6 +52,7 @@ Stack I touch daily:
 - **Search and infra**: Elasticsearch, Docker, GitLab CI
 - **Tests**: Jest, Supertest, testcontainers
 - **Observability**: Sentry, Grafana, Loki, Metabase
+- **AI tooling**: Claude Code, OpenAI Codex, usually several sessions in parallel; claude-fleet below is the dashboard I built to keep track of them
 
 Open source: [claude-fleet](https://github.com/jackflaggg/claude-fleet), a local
 dashboard for all running Claude Code and Codex sessions, with lifecycle hooks and SSE.
