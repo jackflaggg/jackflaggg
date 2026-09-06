@@ -2,10 +2,11 @@
 
 Senior Backend Engineer - Node.js / NestJS / PostgreSQL. EdTech, high-load LMS platforms.
 
-I own backend for a family of online-school products: a monolith with ~10 contributors,
-an auth service, a notification service, a payroll integration, and a localized fork of the
-platform for the LATAM market. Most of my work lives in a self-hosted GitLab, so the
-contribution graph here shows only a fraction of it.
+I own backend for an online school. The core LMS is, honestly, a distributed monolith
+(~10 contributors), with a microservice architecture growing around it: auth service,
+notification service, payroll integration, plus a localized fork of the whole platform
+for the LATAM market. Most of my work lives in a self-hosted GitLab, so the contribution
+graph here shows only a fraction of it.
 
 ## What I've done recently
 
@@ -21,7 +22,7 @@ contribution graph here shows only a fraction of it.
   lessons cache cut 33.6% of total DB time, action analytics dedupe cut 18.6%,
   diary and grading dashboards, reindex jobs sized for production volumes, P0 fix for
   a series deletion that took up to a minute.
-- **Search.** Cross-entity search over programs and materials on OpenSearch, with
+- **Search.** Cross-entity search over programs and materials on Elasticsearch, with
   reindexing pipeline and production resync.
 - **Services from scratch.** SMS/email notification microservice; payroll backend with
   event-driven sync from the LMS, DLQ handling, CI/CD and Docker; Telegram bot on webhooks;
@@ -33,7 +34,7 @@ contribution graph here shows only a fraction of it.
 
 ## Stack
 
-NestJS, TypeScript, PostgreSQL / TypeORM, Redis, RabbitMQ, Bull, ClickHouse, OpenSearch,
+NestJS, TypeScript, PostgreSQL / TypeORM, Redis, RabbitMQ, Bull, ClickHouse, Elasticsearch,
 Socket.io, S3, Docker, GitLab CI, Sentry, Prometheus, OpenTelemetry, Pino, Jest / Supertest
 (unit, integration, e2e).
 
