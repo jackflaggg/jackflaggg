@@ -44,8 +44,14 @@ to end, from the ticket to watching the release on prod, which is also why I rev
 code: 160+ merge requests across three services so far. If you want a second opinion on any
 of this, my manager's recommendation is on LinkedIn.
 
-Stack I touch daily: NestJS, TypeORM, PostgreSQL, Redis, RabbitMQ, ClickHouse, Elasticsearch,
-Docker, GitLab CI, Jest, Supertest, testcontainers, Grafana, Loki, Metabase.
+Stack I touch daily:
+
+- **Runtime**: Node.js, TypeScript, NestJS, Express
+- **Data**: PostgreSQL (EXPLAIN, indexes, locking, advisory locks), TypeORM, Redis, ClickHouse, MongoDB
+- **Events**: RabbitMQ (quorum queues, DLX/DLQ, transactional outbox)
+- **Search and infra**: Elasticsearch, Docker, GitLab CI
+- **Tests**: Jest, Supertest, testcontainers
+- **Observability**: Grafana, Loki, Metabase
 
 Open source: [claude-fleet](https://github.com/jackflaggg/claude-fleet), a local
 dashboard for all running Claude Code and Codex sessions, with lifecycle hooks and SSE.
